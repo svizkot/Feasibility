@@ -1,0 +1,10 @@
+{
+ "name":"Feasibility Studio — Investment Decision Lab",
+ "short_name":"Feasibility Studio",
+ "start_url":"./index.html",
+ "display":"standalone",
+ "background_color":"#13171c",
+ "theme_color":"#171b20",
+ "icons":[{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}],
+ "description":"เครื่องมือวิเคราะห์ความเป็นไปได้ของโครงการลงทุน แบบออฟไลน์"
+}
